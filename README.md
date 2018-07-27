@@ -1,5 +1,7 @@
 # AndroidDemo01-DemoThread
 
+![image](https://github.com/Jimison-TW/AndroidDemo01-DemoThread/blob/master/Capture/device-2018-07-27-143059.png?raw=true)
+
 ## 開發版本 
 Andorid 3.1.2 </br>
 SdkVersion 27 </br>
